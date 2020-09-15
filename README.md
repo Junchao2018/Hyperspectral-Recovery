@@ -1,2 +1,6 @@
 # Hyperspectral-Recovery
-The source code is for paper "Deep learning based hyperspectral recovery from a single RGB image" (submitted to Optics Letters).
+The source code is for paper "Deep learning based hyperspectral recovery from a single RGB image".
+
+If you use the code, please cite the following paper:
+
+Junchao Zhang, Yuanyuan Sun, Jianlai Chen, Degui Yang and Rongguang Liang. Deep learning based hyperspectral recovery from a single RGB image. Optics Letters, 2020. (Accepted)
